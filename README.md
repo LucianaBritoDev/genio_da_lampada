@@ -1,8 +1,8 @@
-# React + Vite
+# genie_of_the_lamp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website template with the theme “Genie of the Lamp”. Developed with React.
 
-Currently, two official plugins are available:
+<img width="936" alt="img1" src="https://github.com/user-attachments/assets/8d86de24-d74a-48fc-afb0-1f0c07cae197" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="936" alt="img2" src="https://github.com/user-attachments/assets/30c935a2-55ba-47a8-8328-92c1de92f366" />
+
